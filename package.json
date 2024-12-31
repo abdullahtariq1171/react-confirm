@@ -30,8 +30,8 @@
   "author": "",
   "license": "MIT",
   "peerDependencies": {
-    "react": "18.x",
-    "react-dom": "18.x"
+    "react": "18.x || ^19",
+    "react-dom": "18.x || ^19"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.6",
